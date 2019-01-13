@@ -1,6 +1,6 @@
 Visit :  https://vladarmaster.github.io/ethereum-web-store/
 
-Activate Metamask on Rinkeby test network 
+Activate Metamask on Rinkeby test network and try it. 
 
 
 
